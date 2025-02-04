@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/ProxyDesignPatern.csproj",
+      "projectUniqueName": "/Users/wiktorsyrek/Documents/DesignPatternsSandbox/ProxyDesignPattern/ProxyDesignPatern/ProxyDesignPatern.csproj",
       "projectName": "ProxyDesignPatern",
-      "projectPath": "/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/ProxyDesignPatern.csproj",
+      "projectPath": "/Users/wiktorsyrek/Documents/DesignPatternsSandbox/ProxyDesignPattern/ProxyDesignPatern/ProxyDesignPatern.csproj",
       "packagesPath": "/Users/wiktorsyrek/.nuget/packages/",
-      "outputPath": "/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/obj/",
+      "outputPath": "/Users/wiktorsyrek/Documents/DesignPatternsSandbox/ProxyDesignPattern/ProxyDesignPatern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wiktorsyrek/.nuget/NuGet/NuGet.Config"

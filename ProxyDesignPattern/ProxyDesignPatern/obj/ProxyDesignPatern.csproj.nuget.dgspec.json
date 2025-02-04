@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wiktorsyrek/Documents/ProxyDesignPattern/proxydesignpatern/ProxyDesignPatern.csproj": {}
+    "/Users/wiktorsyrek/Documents/DesignPatternsSandbox/ProxyDesignPattern/ProxyDesignPatern/ProxyDesignPatern.csproj": {}
   },
   "projects": {
-    "/Users/wiktorsyrek/Documents/ProxyDesignPattern/proxydesignpatern/ProxyDesignPatern.csproj": {
+    "/Users/wiktorsyrek/Documents/DesignPatternsSandbox/ProxyDesignPattern/ProxyDesignPatern/ProxyDesignPatern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wiktorsyrek/Documents/ProxyDesignPattern/proxydesignpatern/ProxyDesignPatern.csproj",
+        "projectUniqueName": "/Users/wiktorsyrek/Documents/DesignPatternsSandbox/ProxyDesignPattern/ProxyDesignPatern/ProxyDesignPatern.csproj",
         "projectName": "ProxyDesignPatern",
-        "projectPath": "/Users/wiktorsyrek/Documents/ProxyDesignPattern/proxydesignpatern/ProxyDesignPatern.csproj",
+        "projectPath": "/Users/wiktorsyrek/Documents/DesignPatternsSandbox/ProxyDesignPattern/ProxyDesignPatern/ProxyDesignPatern.csproj",
         "packagesPath": "/Users/wiktorsyrek/.nuget/packages/",
-        "outputPath": "/Users/wiktorsyrek/Documents/ProxyDesignPattern/proxydesignpatern/obj/",
+        "outputPath": "/Users/wiktorsyrek/Documents/DesignPatternsSandbox/ProxyDesignPattern/ProxyDesignPatern/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wiktorsyrek/.nuget/NuGet/NuGet.Config"
