@@ -1,0 +1,14 @@
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net9.0/DecoratorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net9.0/DecoratorDesignPattern.AssemblyInfoInputs.cache
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net9.0/DecoratorDesignPattern.AssemblyInfo.cs
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net9.0/DecoratorDesignPattern.csproj.CoreCompileInputs.cache
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/bin/Debug/net9.0/DecoratorDesignPattern
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/bin/Debug/net9.0/DecoratorDesignPattern.deps.json
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/bin/Debug/net9.0/DecoratorDesignPattern.runtimeconfig.json
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/bin/Debug/net9.0/DecoratorDesignPattern.dll
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/bin/Debug/net9.0/DecoratorDesignPattern.pdb
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net9.0/DecoratorDesignPattern.dll
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net9.0/refint/DecoratorDesignPattern.dll
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net9.0/DecoratorDesignPattern.pdb
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net9.0/DecoratorDesignPattern.genruntimeconfig.cache
+/Users/wiktorsyrek/Documents/DecoratorDesignPattern/DecoratorDesignPattern/obj/Debug/net9.0/ref/DecoratorDesignPattern.dll

@@ -1,0 +1,14 @@
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/bin/Debug/net9.0/BridgeDesignPattern
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/bin/Debug/net9.0/BridgeDesignPattern.deps.json
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/bin/Debug/net9.0/BridgeDesignPattern.runtimeconfig.json
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/bin/Debug/net9.0/BridgeDesignPattern.dll
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/bin/Debug/net9.0/BridgeDesignPattern.pdb
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net9.0/BridgeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net9.0/BridgeDesignPattern.AssemblyInfoInputs.cache
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net9.0/BridgeDesignPattern.AssemblyInfo.cs
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net9.0/BridgeDesignPattern.csproj.CoreCompileInputs.cache
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net9.0/BridgeDesignPattern.dll
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net9.0/refint/BridgeDesignPattern.dll
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net9.0/BridgeDesignPattern.pdb
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net9.0/BridgeDesignPattern.genruntimeconfig.cache
+/Users/wiktorsyrek/Documents/BridgeDesignPattern/BridgeDesignPattern/obj/Debug/net9.0/ref/BridgeDesignPattern.dll

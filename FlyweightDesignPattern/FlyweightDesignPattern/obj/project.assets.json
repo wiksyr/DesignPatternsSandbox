@@ -1,0 +1,241 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "JetBrains.dotMemoryUnit/3.2.20220510": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/dotMemory.Unit.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/dotMemory.Unit.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "NUnit/4.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/nunit.framework.dll": {
+            "related": ".legacy.xml;.xml"
+          },
+          "lib/net8.0/nunit.framework.legacy.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/nunit.framework.dll": {
+            "related": ".legacy.xml;.xml"
+          },
+          "lib/net8.0/nunit.framework.legacy.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JetBrains.dotMemoryUnit/3.2.20220510": {
+      "sha512": "jhzqT6zXFN0S6zxNXKmiEoNIqAEtlbsteQEhDA8TkTFfQpE/noktqU1HXfJ4P2PPczW48aFW9h69nHY8pSbnXw==",
+      "type": "package",
+      "path": "jetbrains.dotmemoryunit/3.2.20220510",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "jetbrains.dotmemoryunit.3.2.20220510.nupkg.sha512",
+        "jetbrains.dotmemoryunit.nuspec",
+        "lib/net35/dotMemory.Unit.dll",
+        "lib/net35/dotMemory.Unit.xml",
+        "lib/netstandard2.0/dotMemory.Unit.dll",
+        "lib/netstandard2.0/dotMemory.Unit.xml",
+        "lib/tools/BLToolkit.3.dll",
+        "lib/tools/Castle.Core.dll",
+        "lib/tools/DotNetZip.dll",
+        "lib/tools/JetBrains.Annotations.dll",
+        "lib/tools/JetBrains.CommandLine.Interop.dll",
+        "lib/tools/JetBrains.Common.CallTreeStorage.dll",
+        "lib/tools/JetBrains.Common.ExternalStorage.CLR40.exe",
+        "lib/tools/JetBrains.Common.ExternalStorage.CLR40.exe.config",
+        "lib/tools/JetBrains.Common.ExternalStorage.CLR40.x86.exe",
+        "lib/tools/JetBrains.Common.ExternalStorage.CLR40.x86.exe.config",
+        "lib/tools/JetBrains.Common.JetInjector.Interface.dll",
+        "lib/tools/JetBrains.Common.JetInjector.dll",
+        "lib/tools/JetBrains.Common.Remotable.Proxy.dll",
+        "lib/tools/JetBrains.Common.Remotable.Util.dll",
+        "lib/tools/JetBrains.Common.Remotable.dll",
+        "lib/tools/JetBrains.Common.Util.Metadata.dll",
+        "lib/tools/JetBrains.Common.Util.Shell.dll",
+        "lib/tools/JetBrains.Common.Util.dll",
+        "lib/tools/JetBrains.Etw.dll",
+        "lib/tools/JetBrains.Platform.ComponentModel.dll",
+        "lib/tools/JetBrains.Platform.Core.dll",
+        "lib/tools/JetBrains.Platform.Interop.WinApi.dll",
+        "lib/tools/JetBrains.Platform.Metadata.dll",
+        "lib/tools/JetBrains.Platform.RdCore.dll",
+        "lib/tools/JetBrains.Platform.Shell.dll",
+        "lib/tools/JetBrains.Platform.UIInteractive.Shell.dll",
+        "lib/tools/JetBrains.Platform.Util.dll",
+        "lib/tools/JetBrains.Profiler.Snapshot.Interface.dll",
+        "lib/tools/JetBrains.Profiler.Snapshot.dll",
+        "lib/tools/JetBrains.Profiler.Util.dll",
+        "lib/tools/JetBrains.Profiler.Windows.Api.dll",
+        "lib/tools/JetBrains.Profiler.Windows.Impl.dll",
+        "lib/tools/JetBrains.Profiler.Windows.Impl.dll.config",
+        "lib/tools/JetBrains.Profiler.Windows.RemoteAgent.dll",
+        "lib/tools/JetBrains.Profiler.Windows.RemoteAgent.dll.config",
+        "lib/tools/JetBrains.Profiler.Windows.SysTools.dll",
+        "lib/tools/JetBrains.Profiler.Windows.dll",
+        "lib/tools/JetBrains.Profiler.dll",
+        "lib/tools/JetBrains.dotMemory.Assembler.dll",
+        "lib/tools/JetBrains.dotMemory.Core.dll",
+        "lib/tools/JetBrains.dotMemory.Dal.Interface.dll",
+        "lib/tools/JetBrains.dotMemory.Dal.dll",
+        "lib/tools/JetBrains.dotMemory.Model.Interface.dll",
+        "lib/tools/JetBrains.dotMemory.Model.dll",
+        "lib/tools/JetBrains.dotMemory.Resources.dll",
+        "lib/tools/JetBrains.dotMemory.Shellless.dll",
+        "lib/tools/JetBrains.dotMemoryUnit.ClientController.dll",
+        "lib/tools/JetBrains.dotMemoryUnit.Interface.dll",
+        "lib/tools/JetBrains.dotMemoryUnit.Interop.Console.dll",
+        "lib/tools/JetBrains.dotMemoryUnit.Server.exe",
+        "lib/tools/JetBrains.dotMemoryUnit.Server.exe.config",
+        "lib/tools/Newtonsoft.Json.dll",
+        "lib/tools/dotMemory.Unit.dll",
+        "lib/tools/dotMemory.Unit.xml",
+        "lib/tools/dotMemoryUnit.config.xslt",
+        "lib/tools/dotMemoryUnit.exe",
+        "lib/tools/dotMemoryUnit.exe.config",
+        "lib/tools/jetbrains_license.md",
+        "lib/tools/netstandard2.0/JetBrains.Platform.Interop.WinApi.dll",
+        "lib/tools/netstandard2.0/JetBrains.dotMemoryUnit.ClientController.dll",
+        "lib/tools/netstandard2.0/JetBrains.dotMemoryUnit.Interface.dll",
+        "lib/tools/netstandard2.0/System.Private.ServiceModel.dll",
+        "lib/tools/netstandard2.0/System.ServiceModel.NetTcp.dll",
+        "lib/tools/netstandard2.0/System.ServiceModel.Primitives.dll",
+        "lib/tools/netstandard2.0/dotMemory.Unit.dll",
+        "lib/tools/x64/JetBrains.Common.NativeUtils.dll",
+        "lib/tools/x64/JetBrains.Profiler.Windows.Core.dll",
+        "lib/tools/x64/JetBrains.Profiler.Windows.CoreApi.dll",
+        "lib/tools/x64/symsrv.dll",
+        "lib/tools/x64/symsrv.yes",
+        "lib/tools/x86/JetBrains.Common.NativeUtils.dll",
+        "lib/tools/x86/JetBrains.Profiler.Windows.Core.dll",
+        "lib/tools/x86/JetBrains.Profiler.Windows.CoreApi.dll",
+        "lib/tools/x86/symsrv.dll",
+        "lib/tools/x86/symsrv.yes"
+      ]
+    },
+    "NUnit/4.3.2": {
+      "sha512": "puVXayXNmEu7MFQSUswGmUjOy3M3baprMbkLl5PAutpeDoGTr+jPv33qAYsqxywi2wJCq8l/O3EhHoLulPE1iQ==",
+      "type": "package",
+      "path": "nunit/4.3.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICES.md",
+        "README.md",
+        "THIRD_PARTY_NOTICES.md",
+        "build/NUnit.props",
+        "icon.png",
+        "lib/net462/nunit.framework.dll",
+        "lib/net462/nunit.framework.legacy.dll",
+        "lib/net462/nunit.framework.legacy.xml",
+        "lib/net462/nunit.framework.xml",
+        "lib/net6.0/nunit.framework.dll",
+        "lib/net6.0/nunit.framework.legacy.dll",
+        "lib/net6.0/nunit.framework.legacy.xml",
+        "lib/net6.0/nunit.framework.xml",
+        "lib/net8.0/nunit.framework.dll",
+        "lib/net8.0/nunit.framework.legacy.dll",
+        "lib/net8.0/nunit.framework.legacy.xml",
+        "lib/net8.0/nunit.framework.xml",
+        "nunit.4.3.2.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "JetBrains.DotMemoryUnit >= 3.2.20220510",
+      "nUnit >= 4.3.2"
+    ]
+  },
+  "packageFolders": {
+    "/Users/wiktorsyrek/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/FlyweightDesignPattern.csproj",
+      "projectName": "FlyweightDesignPattern",
+      "projectPath": "/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/FlyweightDesignPattern.csproj",
+      "packagesPath": "/Users/wiktorsyrek/.nuget/packages/",
+      "outputPath": "/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/wiktorsyrek/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "JetBrains.DotMemoryUnit": {
+            "target": "Package",
+            "version": "[3.2.20220510, )"
+          },
+          "nUnit": {
+            "target": "Package",
+            "version": "[4.3.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

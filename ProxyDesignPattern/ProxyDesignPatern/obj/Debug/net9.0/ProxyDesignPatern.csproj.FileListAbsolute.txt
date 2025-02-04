@@ -1,0 +1,14 @@
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/obj/Debug/net9.0/ProxyDesignPatern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/obj/Debug/net9.0/ProxyDesignPatern.AssemblyInfoInputs.cache
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/obj/Debug/net9.0/ProxyDesignPatern.AssemblyInfo.cs
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/obj/Debug/net9.0/ProxyDesignPatern.csproj.CoreCompileInputs.cache
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/bin/Debug/net9.0/ProxyDesignPatern
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/bin/Debug/net9.0/ProxyDesignPatern.deps.json
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/bin/Debug/net9.0/ProxyDesignPatern.runtimeconfig.json
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/bin/Debug/net9.0/ProxyDesignPatern.dll
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/bin/Debug/net9.0/ProxyDesignPatern.pdb
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/obj/Debug/net9.0/ProxyDesignPatern.dll
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/obj/Debug/net9.0/refint/ProxyDesignPatern.dll
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/obj/Debug/net9.0/ProxyDesignPatern.pdb
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/obj/Debug/net9.0/ProxyDesignPatern.genruntimeconfig.cache
+/Users/wiktorsyrek/Documents/ProxyDesignPattern/ProxyDesignPatern/obj/Debug/net9.0/ref/ProxyDesignPatern.dll

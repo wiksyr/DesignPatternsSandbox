@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JM3tKLyItSc=",
+  "success": true,
+  "projectFilePath": "/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/FlyweightDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/wiktorsyrek/.nuget/packages/jetbrains.dotmemoryunit/3.2.20220510/jetbrains.dotmemoryunit.3.2.20220510.nupkg.sha512",
+    "/Users/wiktorsyrek/.nuget/packages/nunit/4.3.2/nunit.4.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

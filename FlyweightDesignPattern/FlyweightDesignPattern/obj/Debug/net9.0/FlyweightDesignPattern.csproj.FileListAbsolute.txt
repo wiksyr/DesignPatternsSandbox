@@ -1,0 +1,15 @@
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/bin/Debug/net9.0/FlyweightDesignPattern
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/bin/Debug/net9.0/FlyweightDesignPattern.deps.json
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/bin/Debug/net9.0/FlyweightDesignPattern.runtimeconfig.json
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/bin/Debug/net9.0/FlyweightDesignPattern.dll
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/bin/Debug/net9.0/FlyweightDesignPattern.pdb
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net9.0/FlyweightDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net9.0/FlyweightDesignPattern.AssemblyInfoInputs.cache
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net9.0/FlyweightDesignPattern.AssemblyInfo.cs
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net9.0/FlyweightDesignPattern.csproj.CoreCompileInputs.cache
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net9.0/FlyweightDesignPattern.dll
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net9.0/refint/FlyweightDesignPattern.dll
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net9.0/FlyweightDesignPattern.pdb
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net9.0/FlyweightDesignPattern.genruntimeconfig.cache
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net9.0/ref/FlyweightDesignPattern.dll
+/Users/wiktorsyrek/Documents/flyweightDesignPattern/FlyweightDesignPattern/obj/Debug/net9.0/FlyweightDesignPattern.csproj.AssemblyReference.cache
