@@ -1,2 +1,2 @@
 # Design Patterns Sandbox
-for design patterns training
+for C# design patterns training
